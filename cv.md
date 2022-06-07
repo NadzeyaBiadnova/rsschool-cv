@@ -2,7 +2,7 @@
 
 SAP ERP, ABAP Developer
 
-Now I study as a Frontend Developer
+Now I study as a Frontend Developer.
 
 
 ## Experience
